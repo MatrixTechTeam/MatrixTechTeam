@@ -31,8 +31,8 @@ A professional developer portfolio website highlighting projects, skills, and ac
 
 ## 🔹 Get In Touch
 📫 Reach us at: **info@matrixtechteam.com**  
-🌐 Visit our website: [Matrix Tech Team](https://yourwebsite.com)  
-💼 Connect on LinkedIn: [Matrix Tech Team](https://linkedin.com/company/matrixtechteam)  
+🌐 Visit our website: [Matrix Tech Team](https://www.matrixtechteam.top)  
+💼 Connect on X: [Matrix Tech Team](https://x.com/Matrixtechteam1)  
 
 ---
 
