@@ -19,6 +19,8 @@ A modern, interactive login form with smooth animations. Built to demonstrate fr
 
 ### 🌐 Portfolio  
 A professional developer portfolio website highlighting projects, skills, and achievements. Responsive, visually appealing, and optimized for performance — your digital resume to showcase expertise.
+#### 📝 Todo List App 
+A simple and responsive **Todo List App** built with **HTML, CSS, and JavaScript**, designed with **Figma prototypes**. This project helps users manage tasks efficiently with a clean and modern interface. 
 
 ---
 
