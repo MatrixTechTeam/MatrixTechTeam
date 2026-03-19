@@ -32,7 +32,7 @@ A simple and responsive **Todo List App** built with **HTML, CSS, and JavaScript
 ---
 
 ## 🔹 Get In Touch
-📫 Reach us at: **info@matrixtechteam.com**  
+📫 Reach us at: **info.matrixtechteam@gmail.com**  
 🌐 Visit our website: [Matrix Tech Team](https://www.matrixtechteam.top)  
 💼 Connect on X: [Matrix Tech Team](https://x.com/Matrixtechteam1)  
 
