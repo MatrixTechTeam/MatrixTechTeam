@@ -10,7 +10,7 @@
 
 ###  About Me
 
- &nbsp;I'm currently working on **Signal Log — an encrypted messaging app with FastAPI + PostgreSQL**  
+ &nbsp;I'm currently working on **NexChat — an encrypted messaging app with FastAPI + PostgreSQL**  
  &nbsp;I'm currently learning **Responsive, cross-platform frontend design — making things look right on web and app both.**  
  &nbsp;I'm looking to collaborate on **Open-source web development projects**  
  &nbsp;I'm looking for help with **Backend architecture, DevOps, and scalable applications**  
